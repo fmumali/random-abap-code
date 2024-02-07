@@ -1,0 +1,15 @@
+U1 &FUNCTIONALITY&                                                         
+AS Some function are becoming flagged as obsolete in later SAP releases.   
+   This class will wrap all functions that we are using in ABAP2XLSX in a  
+   static method where we'll use the newer version that SAP suggests       
+/  We'll keep the old function call as a comment in the method - that way  
+   anyone installing on an older system may remove the comments to activate
+   the previous coding                                                     
+U1 &RELATIONS&                                                             
+AS                                                                         
+U1 &EXAMPLE&                                                               
+AS                                                                         
+U1 &HINTS&                                                                 
+AS                                                                         
+U1 &FURTHER_SOURCES_OF_INF&                                                
+AS                                                                         

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?><asx:abap xmlns:asx="http://www.sap.com/abapxml">
+<asx:values>
+<TEXTPOOLT>
+<TEXTPOOLT>
+<ID>I</ID>
+<KEY>001</KEY>
+<LANG>E</LANG>
+<ENTRY>Invalid range</ENTRY>
+<LENGTH>60</LENGTH>
+</TEXTPOOLT>
+<TEXTPOOLT>
+<ID>I</ID>
+<KEY>002</KEY>
+<LANG>E</LANG>
+<ENTRY>Input not properly escaped - &amp;</ENTRY>
+<LENGTH>60</LENGTH>
+</TEXTPOOLT>
+<TEXTPOOLT>
+<ID>I</ID>
+<KEY>003</KEY>
+<LANG>E</LANG>
+<ENTRY>Unable to interpret input as column</ENTRY>
+<LENGTH>60</LENGTH>
+</TEXTPOOLT>
+<TEXTPOOLT>
+<ID>I</ID>
+<KEY>004</KEY>
+<LANG>E</LANG>
+<ENTRY>Index out of bounds</ENTRY>
+<LENGTH>60</LENGTH>
+</TEXTPOOLT>
+<TEXTPOOLT>
+<ID>I</ID>
+<KEY>005</KEY>
+<LANG>E</LANG>
+<ENTRY>Excel Workbook (*.xlsx)|*.xlsx|</ENTRY>
+<LENGTH>80</LENGTH>
+</TEXTPOOLT>
+</TEXTPOOLT>
+</asx:values>
+</asx:abap>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?><asx:abap xmlns:asx="http://www.sap.com/abapxml">
+<asx:values>
+<TEXTPOOLT>
+<TEXTPOOLT>
+<ID>I</ID>
+<KEY>001</KEY>
+<LANG>E</LANG>
+<ENTRY>Sheet</ENTRY>
+<LENGTH>132</LENGTH>
+</TEXTPOOLT>
+<TEXTPOOLT>
+<ID>I</ID>
+<KEY>400</KEY>
+<LANG>E</LANG>
+<ENTRY>Table overlaps with previously bound table and will not be added to worksheet.</ENTRY>
+<LENGTH>132</LENGTH>
+</TEXTPOOLT>
+<TEXTPOOLT>
+<ID>I</ID>
+<KEY>401</KEY>
+<LANG>E</LANG>
+<ENTRY>Invalid range supplied for print-title repeatable columns</ENTRY>
+<LENGTH>132</LENGTH>
+</TEXTPOOLT>
+<TEXTPOOLT>
+<ID>I</ID>
+<KEY>402</KEY>
+<LANG>E</LANG>
+<ENTRY>Found illegal character in sheetname. List of forbidden characters: /\[]*?:</ENTRY>
+<LENGTH>132</LENGTH>
+</TEXTPOOLT>
+<TEXTPOOLT>
+<ID>I</ID>
+<KEY>403</KEY>
+<LANG>E</LANG>
+<ENTRY>Sheetname may not start with &amp;</ENTRY>
+<LENGTH>132</LENGTH>
+</TEXTPOOLT>
+<TEXTPOOLT>
+<ID>I</ID>
+<KEY>404</KEY>
+<LANG>E</LANG>
+<ENTRY>Overlapping merges</ENTRY>
+<LENGTH>60</LENGTH>
+</TEXTPOOLT>
+<TEXTPOOLT>
+<ID>I</ID>
+<KEY>405</KEY>
+<LANG>E</LANG>
+<ENTRY>First row larger than last row</ENTRY>
+<LENGTH>60</LENGTH>
+</TEXTPOOLT>
+<TEXTPOOLT>
+<ID>I</ID>
+<KEY>406</KEY>
+<LANG>E</LANG>
+<ENTRY>First column larger than last column</ENTRY>
+<LENGTH>60</LENGTH>
+</TEXTPOOLT>
+</TEXTPOOLT>
+</asx:values>
+</asx:abap>

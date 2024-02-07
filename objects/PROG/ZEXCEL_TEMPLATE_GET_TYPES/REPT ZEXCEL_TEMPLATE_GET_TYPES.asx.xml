@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?><asx:abap xmlns:asx="http://www.sap.com/abapxml">
+<asx:values>
+<TEXTPOOLT>
+<TEXTPOOLT>
+<ID>R</ID>
+<KEY></KEY>
+<LANG>E</LANG>
+<ENTRY>Generate ABAP code (Types) for template workbook</ENTRY>
+<LENGTH>48</LENGTH>
+</TEXTPOOLT>
+<TEXTPOOLT>
+<ID>S</ID>
+<KEY>P_FILE</KEY>
+<LANG>E</LANG>
+<ENTRY>        Load template from file</ENTRY>
+<LENGTH>31</LENGTH>
+</TEXTPOOLT>
+<TEXTPOOLT>
+<ID>S</ID>
+<KEY>P_FPATH</KEY>
+<LANG>E</LANG>
+<ENTRY>        Path to template.xlsx</ENTRY>
+<LENGTH>29</LENGTH>
+</TEXTPOOLT>
+<TEXTPOOLT>
+<ID>S</ID>
+<KEY>P_NORMAL</KEY>
+<LANG>E</LANG>
+<ENTRY>        Normal comma at end,</ENTRY>
+<LENGTH>28</LENGTH>
+</TEXTPOOLT>
+<TEXTPOOLT>
+<ID>S</ID>
+<KEY>P_OBJID</KEY>
+<LANG>E</LANG>
+<ENTRY>        Object ID</ENTRY>
+<LENGTH>17</LENGTH>
+</TEXTPOOLT>
+<TEXTPOOLT>
+<ID>S</ID>
+<KEY>P_OTHER</KEY>
+<LANG>E</LANG>
+<ENTRY>        , comma at begin of line</ENTRY>
+<LENGTH>37</LENGTH>
+</TEXTPOOLT>
+<TEXTPOOLT>
+<ID>S</ID>
+<KEY>P_SMW0</KEY>
+<LANG>E</LANG>
+<ENTRY>        Load template from SMW0</ENTRY>
+<LENGTH>31</LENGTH>
+</TEXTPOOLT>
+</TEXTPOOLT>
+</asx:values>
+</asx:abap>
